@@ -1,0 +1,33 @@
+.chat-container {
+  width: 95%;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+.chatLine {
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  text-align: center;
+}
+.message-list {
+  height: 300px;
+  overflow-y: auto;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.message {
+  padding: 5px 0;
+}
+
+.message-input {
+  width: 500px;
+  align-items: center;
+}
+
+.message-input .form-control {
+  /*flex: 1; */
+  margin-right: 10px;
+}

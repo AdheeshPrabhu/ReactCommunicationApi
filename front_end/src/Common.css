@@ -1,0 +1,57 @@
+.textcenter {
+  text-align: center;
+}
+
+.errorcolur {
+  text-align: center;
+  color: red;
+  font-size: large;
+}
+
+.bg-primary {
+  background-color: #adb5bd !important;
+}
+
+.navbar-collapse .navbar-nav{
+  margin-left:30%;
+}
+
+.welcome{
+  margin-top:5%;
+}
+
+.welcome h1{
+  font-size: 20px;
+}
+
+.logout{
+    margin-top: 2%;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.loginfrm{
+  width:30%;
+  margin-left:32%;
+}
+
+.regfrm{
+  width:60%;
+  margin-left:20%;
+}
+
+.lgfrm{
+  margin-top: 2%;
+  margin-bottom: 2%;
+  font-weight: bold;
+  padding-left:32%;
+}
+
+.lgsucc{
+  /*width: 40%;*/
+  margin-top: 15px;
+  margin-bottom:  15px;
+  /* margin-left: 30%; */
+  text-align:center;
+}
